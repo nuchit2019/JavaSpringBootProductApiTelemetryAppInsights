@@ -149,5 +149,7 @@ private IProductService productService;
 
 4. **Monitoring**:  
    Check telemetry logs in Application Insights for detailed tracking and debugging of processes and API calls.
+   ![image](https://github.com/user-attachments/assets/7b5a762a-7e8b-45b8-9b06-977164cbf47f)
+
 
 ---
